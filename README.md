@@ -70,8 +70,10 @@ Day | Title | Conference or Journal | Member | PDF | Link | Reference
 <a name="lc" />
 
 ## Lab & Company
-- Mila [[Homepage]][5.1]
-
+- Mila (Company) [[Homepage]][5.1]
+- MIT Tommi S. Jaakkola (Lab) [[Homepage]][5.2]
+- valence drug discovery (Company) [[Homepage]][5.3]
+- DeepMind (Company) [[Homepage]][5.4]
 
 
 
@@ -87,3 +89,6 @@ Day | Title | Conference or Journal | Member | PDF | Link | Reference
 [4.3]: https://www.youtube.com/watch?v=_lKiQ6lfLU8
 [4.4]: https://valence-discovery.github.io/M2D2-meetings/
 [5.1]: https://mila.quebec/ena
+[5.2]: http://people.csail.mit.edu/tommi/tommi.html
+[5.3]: https://www.valencediscovery.com/
+[5.4]: https://www.deepmind.com/
