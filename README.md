@@ -4,25 +4,28 @@ Molecular-team-study
 Homepage : https://molecular-ai-team.netlify.app \
 Lab homepage : http://mailab.korea.ac.kr/
 
+Introduction (Our molecular AI study)
+- molecular AI study 세미나 및 공부자료 저장소입니다.
+
 ## Contents
+- [Paper](#pap)
+  - [molecular domain](#papmd)
+  - [survey](#papsur)
+  - [deep-learning](#papdl)
 - [Study](#stu)
-  - [molecular domain](#stumd)
-  - [survey](#stusur)
-  - [deep-learning](#studl)
-- [Project](#pro)
 - [Data & Package](#dp)
 - [Lecture](#lec)
 - [Lab & Company](#lc)
 
-<a name="stu" />
+<a name="pap" />
 
-## Study-list
+## Paper-list
 
-<a name="stumd" />
+<a name="papmd" />
 
 ### molecular domain
 
-<a name="stusur" />
+<a name="papsur" />
 
 ### survey
 - Deep learning for molecular design—a review of the state of the art (2019) [[Paper]][1.2.1]
@@ -32,18 +35,31 @@ Lab homepage : http://mailab.korea.ac.kr/
 - Machine learning for chemical discovery (nature communications, 2021) [[paper]][1.2.5]
 - Machine Learning Methods in Drug Discovery (Molecules, 2020) [[paper]][1.2.6]
 
-<a name="studl" />
+<a name="papdl" />
 
 ### deep-learning
 
-<a name="pro" />
+<a name="stu" />
 
-## Project
+## Study
+Day | Title | Conference or Journal | Member | PDF | Link | Reference
+---- | ---- | ---- | ---- | ---- | ---- | ----
+2022.03.10 | MT_study 1차 |  | 한지웅 (BCI) | [PDF] |
+2022.03.10 | MT_study 2차 |  | 한지웅 (BCI) | [PDF] |
+2022.03.10 | MT_study 3차 |  | 한지웅 (BCI) | [PDF] |
+2022.03.?? | MPNN |  | 이덕중 | [PDF] |
+2022.04.12 |  |  | 신동희 | [PDF] |
+2022.04.19 |  |  | 손영한 | [PDF] |
+2022.04.26 | |  | 한지웅 | [PDF] |
+2022.05.03 | |  | 신동희 | [PDF]|
+2022.05.17 |  |  | 손영한 | [PDF] |
+2022.05.24 | | | ? | [PDF] |
+2022.05.31 | 1.Motif-based Graph Self-Supervised Learning for Molecular Property Prediction. </br>2.Do Transformers Really Perform Badly for Graph Representation? | NIPS 2021 | 이덕중 | [PDF] |
 
 <a name="dp" />
 
 ## Data & Package
-- Graph Property Prediction [[URL]][3.1]
+- Graph Property Prediction (benchmark data site) [[URL]][3.1]
 
 <a name="lec" />
 
