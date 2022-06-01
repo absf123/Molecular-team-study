@@ -74,6 +74,7 @@ Day | Title | Conference or Journal | Member | PDF | Link | Reference
 - MIT Tommi S. Jaakkola (Lab) [[Homepage]][5.2]
 - valence drug discovery (Company) [[Homepage]][5.3]
 - DeepMind (Company) [[Homepage]][5.4]
+- Isomorphic Laboratories (Company) [[Homepage]][5.5]
 
 
 
@@ -92,3 +93,4 @@ Day | Title | Conference or Journal | Member | PDF | Link | Reference
 [5.2]: http://people.csail.mit.edu/tommi/tommi.html
 [5.3]: https://www.valencediscovery.com/
 [5.4]: https://www.deepmind.com/
+[5.5]: https://www.isomorphiclabs.com/
