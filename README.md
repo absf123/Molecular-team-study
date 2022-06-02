@@ -59,7 +59,10 @@ Day | Title | Conference or Journal | Member | PDF | Link | Reference
 <a name="dp" />
 
 ## Data & Package
-- Graph Property Prediction (benchmark data site) [[URL]][3.1]
+- Graph Property Prediction (benchmark dataset) [[URL]][3.1]
+- RDKit (package) [[URL]][3.2]
+- MoleculeNet (Benchmark dataset) [[URL]][3.3]
+- ZINC15 (Benchmark dataset) [[URL]][3.4]
 
 <a name="lec" />
 
@@ -85,6 +88,9 @@ Day | Title | Conference or Journal | Member | PDF | Link | Reference
 [1.2.5]: https://www.nature.com/articles/s41467-020-17844-8.pdf
 [1.2.6]: https://pubmed.ncbi.nlm.nih.gov/33198233/
 [3.1]: https://ogb.stanford.edu/docs/graphprop/
+[3.2]: https://www.rdkit.org/
+[3.3]: https://moleculenet.org/
+[3.4]: https://zinc15.docking.org/
 [4.1]: https://www.youtube.com/watch?v=AHVJv5RNqKs&ab_channel=ManolisKellis
 [4.2]: https://mit6874.github.io/
 [4.3]: https://www.youtube.com/watch?v=_lKiQ6lfLU8
