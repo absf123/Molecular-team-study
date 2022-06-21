@@ -47,7 +47,7 @@ Day | Title | Conference or Journal | Member | PDF | Link(Youtube-lecture) | Ref
 2022.03.10 | MT_study 1차, MT_study 2차, MT_study 3차 |  | 한지웅 | [PDF] |
 2022.03. | (MPNN) Neural Message Passing for Quantum Chemistry | ICML 2017 | 이덕중 | [PDF] |
 2022.04.12 | Multi-Objective Molecule Generation using Interpretable Substructures | ICML 2020 | 신동희 | [PDF] |
-2022.04.19 | Hierarchical Generation of Molecular Graphs using Structural Motifs | ICML 2020 | 손영한 | [PDF] |
+2022.04.19 | Hierarchical Generation of Molecular Graphs using Structural Motifs | ICML 2020 | 손영한 | [PDF](Molecular-team-study/presentation/22.04.19-영한-Hierarchical-Generation-of-Molecular-Graphs-using-Structural-Motifs.pdf) |
 2022.04.26 | Improving Generalization in Meta-learning via Task Augmentation | ICML 2021 | 한지웅 | [PDF] |
 2022.05.03 | GRAND: Graph Neural Diffusion | ICML 2021 | 신동희 | [PDF]|
 2022.05.17 | Equivariant Subgraph Aggregation Networks | ICLR 2022 | 손영한 | [PDF] |
