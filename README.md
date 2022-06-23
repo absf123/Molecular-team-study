@@ -44,16 +44,16 @@ Introduction (Our molecular AI study)
 ## Study
 Day | Title | Conference or Journal | Member | PDF | Link(Youtube-lecture) | Reference(paper)
 ---- | ---- | ---- | ---- | ---- | ---- | ----
-2022.03.10 | MT_study 1차, MT_study 2차, MT_study 3차 |  | 한지웅 | [PDF] | |
-2022.03. | (MPNN) Neural Message Passing for Quantum Chemistry | ICML 2017 | 이덕중 | [PDF] | |
-2022.04.12 | Multi-Objective Molecule Generation using Interpretable Substructures | ICML 2020 | 신동희 | [PDF] | |
+2022.03.10 | MT_study 1차, MT_study 2차, MT_study 3차 | | 한지웅 | [1차](https://github.com/absf123/Molecular-team-study/blob/main/presentation/MT_Study_1%EC%B0%A8.docx) [2차](https://github.com/absf123/Molecular-team-study/blob/main/presentation/MT_Study_2%EC%B0%A8.pdf) [3차](https://github.com/absf123/Molecular-team-study/blob/main/presentation/MT_Study_3%EC%B0%A8.pdf) | |
+2022.03. | (MPNN) Neural Message Passing for Quantum Chemistry | ICML 2017 | 이덕중 | [PDF] | | [paper]
+2022.04.12 | Multi-Objective Molecule Generation using Interpretable Substructures | ICML 2020 | 신동희 | [PDF](https://github.com/absf123/Molecular-team-study/blob/main/presentation/%5B22.04.12%2C%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%5DMulti-Objective%20Molecule%20Geneartion%20using%20Interpretable%20Substructures.pdf) | |
 2022.04.19 | Hierarchical Generation of Molecular Graphs using Structural Motifs | ICML 2020 | 손영한 | [PDF](Molecular-team-study/presentation/22.04.19-영한-Hierarchical-Generation-of-Molecular-Graphs-using-Structural-Motifs.pdf) | |
-2022.04.26 | Improving Generalization in Meta-learning via Task Augmentation | ICML 2021 | 한지웅 | [PDF] | |
-2022.05.03 | GRAND: Graph Neural Diffusion | ICML 2021 | 신동희 | [PDF]| |
-2022.05.17 | Equivariant Subgraph Aggregation Networks | ICLR 2022 | 손영한 | [PDF] | |
-2022.05.24 | improving molecular design by stochastic iterative target augmentation | ICML 2020 | 한지웅 | [PDF] | |
-2022.05.31 | 1.Motif-based Graph Self-Supervised Learning for Molecular Property Prediction. </br>2.Do Transformers Really Perform Badly for Graph Representation? | NIPS 2021 | 이덕중 | [PDF] | |
-2022.06.14,21 | ITERATIVE REFINEMENT GRAPH NEURAL NETWORK FOR ANTIBODY SEQUENCE-STRUCTURE CO-DESIGN | ICLR 2022 | 한지웅 | [PDF] | |
+2022.04.26 | Improving Generalization in Meta-learning via Task Augmentation | ICML 2021 | 한지웅 | [PDF](https://github.com/absf123/Molecular-team-study/blob/main/presentation/%5B22.04.26%5DImproving%20Generalization%20in%20Meta-learning%20via%20Task%20Augmentation.pdf) | |
+2022.05.03 | GRAND: Graph Neural Diffusion | ICML 2021 | 신동희 | [PDF](https://github.com/absf123/Molecular-team-study/blob/main/presentation/%5B22.05.03%5DGRAND.pdf)| |
+2022.05.17 | Equivariant Subgraph Aggregation Networks | ICLR 2022 | 손영한 | [PDF](https://github.com/absf123/Molecular-team-study/blob/main/presentation/22.05.17%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20Equivariant%20Subgraph%20Aggregation%20Networks%20-%20ICLR%202022.pdf) | |
+2022.05.24 | improving molecular design by stochastic iterative target augmentation | ICML 2020 | 한지웅 | [PDF](https://github.com/absf123/Molecular-team-study/blob/main/presentation/%5B22.05.24%5D%20Improving_Molecular_Design_by_Stochastic_Iterative_Target_Augmentation.pdf) | |
+2022.05.31 | 1.Motif-based Graph Self-Supervised Learning for Molecular Property Prediction. </br>2.Do Transformers Really Perform Badly for Graph Representation? | NIPS 2021 | 이덕중 | [PDF](https://github.com/absf123/Molecular-team-study/blob/main/presentation/5%EC%9B%94%2031%EC%9D%BC%20%EB%8D%95%EC%A4%91.pdf) | |
+2022.06.14,21 | ITERATIVE REFINEMENT GRAPH NEURAL NETWORK FOR ANTIBODY SEQUENCE-STRUCTURE CO-DESIGN | ICLR 2022 | 한지웅 | [PDF](https://github.com/absf123/Molecular-team-study/blob/main/presentation/220621_%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%90%E1%85%B5%E1%84%87%E1%85%A1%E1%84%83%E1%85%B5.pdf) | |
 2022.06.27 | Denoising Diffusion Probabilistic Models | NIPS 2022 | 신동희 | [PDF] | | [paper](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)
 
 
