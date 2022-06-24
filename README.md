@@ -42,7 +42,7 @@ Introduction (Our molecular AI study)
 <a name="stu" />
 
 ## Study
-Day | Title | Conference or Journal | Member | PDF | Link(Youtube-lecture) | Reference(paper)
+Day | Title | Conference or Journal | Member | PDF | Youtube | Paper
 ---- | ---- | ---- | ---- | ---- | ---- | ----
 2022.03.10 | MT_study 1차, MT_study 2차, MT_study 3차 | | 한지웅 | [1차](https://github.com/absf123/Molecular-team-study/blob/main/presentation/MT_Study_1%EC%B0%A8.docx) [2차](https://github.com/absf123/Molecular-team-study/blob/main/presentation/MT_Study_2%EC%B0%A8.pdf) [3차](https://github.com/absf123/Molecular-team-study/blob/main/presentation/MT_Study_3%EC%B0%A8.pdf) | |
 2022.03. | (MPNN) Neural Message Passing for Quantum Chemistry | ICML 2017 | 이덕중 | [PDF] | | [paper]
