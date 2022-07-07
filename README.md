@@ -34,6 +34,7 @@ Introduction (Our molecular AI study)
 - Drug discovery with explainable artificial intelligence (nature machine intelligence, 2021) [[paper]][1.2.4]
 - Machine learning for chemical discovery (nature communications, 2021) [[paper]][1.2.5]
 - Machine Learning Methods in Drug Discovery (Molecules, 2020) [[paper]][1.2.6]
+- Comprehensive Survey of Recent Drug Discovery Using Deep Learning (International Journal of Molecular Sciences, 2021) [[paper]][1.2.7]
 
 <a name="papdl" />
 
@@ -88,6 +89,7 @@ Day | Title | Conference or Journal | Member | PDF | Youtube | Paper
 [1.2.4]: https://www.nature.com/articles/s42256-020-00236-4.pdf
 [1.2.5]: https://www.nature.com/articles/s41467-020-17844-8.pdf
 [1.2.6]: https://pubmed.ncbi.nlm.nih.gov/33198233/
+[1.2.7]: https://www.mdpi.com/1422-0067/22/18/9983/htm
 [3.1]: https://ogb.stanford.edu/docs/graphprop/
 [3.2]: https://www.rdkit.org/
 [3.3]: https://moleculenet.org/
