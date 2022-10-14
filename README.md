@@ -55,7 +55,18 @@ Day | Title | Conference or Journal | Member | PDF | Youtube | Paper
 2022.05.24 | improving molecular design by stochastic iterative target augmentation | ICML 2020 | 한지웅 | [PDF](https://github.com/absf123/Molecular-team-study/blob/main/presentation/%5B22.05.24%5D%20Improving_Molecular_Design_by_Stochastic_Iterative_Target_Augmentation.pdf) | |
 2022.05.31 | 1.Motif-based Graph Self-Supervised Learning for Molecular Property Prediction. </br>2.Do Transformers Really Perform Badly for Graph Representation? | NIPS 2021 | 이덕중 | [PDF](https://github.com/absf123/Molecular-team-study/blob/main/presentation/5%EC%9B%94%2031%EC%9D%BC%20%EB%8D%95%EC%A4%91.pdf) | |
 2022.06.14,21 | ITERATIVE REFINEMENT GRAPH NEURAL NETWORK FOR ANTIBODY SEQUENCE-STRUCTURE CO-DESIGN | ICLR 2022 | 한지웅 | [PDF](https://github.com/absf123/Molecular-team-study/blob/main/presentation/220621_%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%90%E1%85%B5%E1%84%87%E1%85%A1%E1%84%83%E1%85%B5.pdf) | |
-2022.06.27 | Denoising Diffusion Probabilistic Models | NIPS 2022 | 신동희 | [PDF] | | [paper](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)
+2022.06.28 | Denoising Diffusion Probabilistic Models | NIPS 2022 | 신동희 | [PDF] | | [paper](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)
+2022.07.20 | Independent SE(3)-Equivariant Models for End-To-End Rigid Protein Docking | ICLR 2022 | 손영한 | [PDF] | | [paper]
+2022.08.12 | TOPOLOGICAL GRAPH NEURAL NETWORKS | ICLR 2022 | 이덕중 | [PDF] | | [paper]
+2022.09.02 | Model agnostic generation of counterfactual explanations for molecules | Chemical Science 2022 | 한지웅 | [PDF] | | [paper]
+2022.09.07 | Learning to Navigate The Synthetically Accessible Chemical Space Using Reinforcement Learning | ICML 2020 | 신동희 | [PDF] | | [paper]
+2022.09.19 | 3DLinker, An E(3) Equivariant Variational Autoencoder for Molecular Linker Design | ICML 2022 | 손영한 | [PDF] | | [paper]
+2022.09.26 | Generative Coarse-Graining of Molecular Conformations | ICML 2022 | 이덕중 | [PDF] | | [paper]
+2022.10.04 | DeepGraphGo, Graph Neural Network for Large-Scale, Multispecies Protein Function Prediction | ISMB 2022 | 한지웅 | [PDF] | | [paper]
+2022.10.11 | GEOMOL- Torsional Geometric Generation of Molecular 3D Conformer Ensembles | NIPS 2021 | 신동희 | [PDF] | | [paper]
+2022.10.17 | 3D Infomax improves GNNs for Molecular Property Prediction | ICML 2021 | 손영한 | [PDF] | | [paper]
+2022.10.24 | | | 이덕중 | [paper] | | [paper]
+
 
 
 <a name="dp" />
