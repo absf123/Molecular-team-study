@@ -65,7 +65,7 @@ Day | Title | Conference or Journal | Member | PDF | Youtube | Paper
 2022.10.04 | DeepGraphGo, Graph Neural Network for Large-Scale, Multispecies Protein Function Prediction | ISMB 2022 | 한지웅 | [PDF] | | [paper]
 2022.10.11 | GEOMOL- Torsional Geometric Generation of Molecular 3D Conformer Ensembles | NIPS 2021 | 신동희 | [PDF] | | [paper]
 2022.10.17 | 3D Infomax improves GNNs for Molecular Property Prediction | ICML 2021 | 손영한 | [PDF] | | [paper]
-2022.10.24 | | | 이덕중 | [paper] | | [paper]
+2022.10.24 | | | 이덕중 | [PDF] | | [paper]
 
 
 
